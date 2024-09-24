@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pMZjJoHkqjI3hN0eEvSc+3LB2jA8SWggNzhtguzd0eQOIxK2Ae/4g0d6wannoB0rv5dnja4HXSbVxk3+yL2fEg==",
+  "success": true,
+  "projectFilePath": "/Users/bohdanprotsyshyn/Desktop/SegmentedControlTestApp/SegmentedControlTestNet8App/SegmentedControlTestNet8App.csproj",
+  "expectedPackageFiles": [
+    "/Users/bohdanprotsyshyn/.nuget/packages/microsoft.net.illink.tasks/8.0.7/microsoft.net.illink.tasks.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
